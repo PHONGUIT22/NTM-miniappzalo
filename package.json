@@ -17,7 +17,8 @@
   "scripts": {
     "login": "zmp login",
     "start": "zmp start",
-    "deploy": "zmp deploy"
+    "deploy": "zmp deploy",
+    "build": "vite build"
   },
   "dependencies": {
     "jotai": "^2.12.1",
